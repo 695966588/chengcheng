@@ -51,6 +51,7 @@ const inviteCodes = [
   `eU9YaOTnYK50pD-AnndG0g@cENuMr3gOrlz92jdyw@eU9Yaui7b64h8jzXmCVCgA@eU9Ya7-6M_93-W-GzCdB0w@eU9YaO26Z6h39TrRzyUU0w`,
   `eU9YaOTnYK50pD-AnndG0g@cENuMr3gOrlz92jdyw@eU9Yaui7b64h8jzXmCVCgA@eU9Ya7-6M_93-W-GzCdB0w@eU9YaO26Z6h39TrRzyUU0w`,
   `eU9YaOTnYK50pD-AnndG0g@cENuMr3gOrlz92jdyw@eU9Yaui7b64h8jzXmCVCgA@eU9Ya7-6M_93-W-GzCdB0w@eU9YaO26Z6h39TrRzyUU0w`,
+  `eU9YaOTnYK50pD-AnndG0g@cENuMr3gOrlz92jdyw@eU9Yaui7b64h8jzXmCVCgA@eU9Ya7-6M_93-W-GzCdB0w@eU9YaO26Z6h39TrRzyUU0w`,
   `eU9YaOTnYK50pD-AnndG0g@cENuMr3gOrlz92jdyw@eU9Yaui7b64h8jzXmCVCgA@eU9Ya7-6M_93-W-GzCdB0w@eU9YaO26Z6h39TrRzyUU0w`
 ]
 if ($.isNode()) {
